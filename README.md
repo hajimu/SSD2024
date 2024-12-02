@@ -51,3 +51,4 @@ I added this line.
 * Hi! This is Tasha!
 * ANdres Mohali ID 2311341
 * Hello. I'm Kanata Morimoto, ID 2411287. Thank you.
+* Joshua Samuel Siy was here. ID 2411426
