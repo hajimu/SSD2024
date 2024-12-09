@@ -67,6 +67,7 @@ I added this line.
 * Hello! I'm Shusuke!
 * Hello! This is Yoshiki!
 * Hello. This is Ryosuke.
+* Hello! I'm Riku!
 * Hello! I'm  Tomoki!
 * Hi! I'm Masahiro!
 * Hello! from shota
