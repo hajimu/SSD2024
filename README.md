@@ -7,6 +7,7 @@ Repository for practice in Software System Development 2024
 ### Do not expose your private information because this is a public repository
 
 * Hi this is Hajimu!
+* Hi there! I am Mohamad.
 * Write something unique in one line.
 * Xin chào, my name is Nguyen Ngoc Huy - こんにちは、私はグエン・ゴック・ホイです。
 * Hi this is Seiji.
@@ -31,6 +32,7 @@ I added this line.
 * Greetings, this is Shiyi
 * Hello from Choonhaklai Papon 2311408. (ᵔ.ᵔ)
 * hi,I'm Hiroki Kotake.
+* Hey, this line was written by Miora.
 * Hi, I'm Ryo Hasegawa. My ID is 2411404.
 * Hi, I'm Ashmari
 * Hi this is Miki
@@ -65,4 +67,5 @@ I added this line.
 * Hello! I'm Shusuke!
 * Hello! This is Yoshiki!
 * Hello ! Corentin Vincensini made a branch ID :2494026
+* Night! This is Dayu-2311419
 
