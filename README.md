@@ -31,6 +31,7 @@ I added this line.
 * Greetings, this is Shiyi
 * Hello from Choonhaklai Papon 2311408. (ᵔ.ᵔ)
 * hi,I'm Hiroki Kotake.
+* Hey, this line was written by Miora.
 * Hi, I'm Ryo Hasegawa. My ID is 2411404.
 * Hi, I'm Ashmari
 * Hi this is Miki
